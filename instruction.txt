@@ -1,0 +1,8 @@
+npm init -y :to create package .json
+install packages needed to build express js server
+    1.express packages :npm i express(used create server)
+    2.CORS package:npm i CORS(used to share  data between client and server app)
+    3.dotenv package:npm i dotenv(used to load .env file content initially to the server app)
+create .env file(used to store environment files)
+create .gitignore (used to store files/folders to be ignored while adding to git) file in server folder and add(node_modules,.env)
+create index.js
